@@ -2,16 +2,9 @@
   "name": "react-awesome-modal",
   "version": "2.0.5",
   "description": "This is a React Modal Component.",
-  "main": "./lib/index",
-  "keywords": [
-    "react",
-    "component",
-    "modal",
-    "react-component"
-  ],
-  "files": [
-    "lib"
-  ],
+  "main": "./src/index",
+  "keywords": ["react", "component", "modal", "react-component"],
+  "files": ["lib"],
   "directories": {
     "example": "examples"
   },
